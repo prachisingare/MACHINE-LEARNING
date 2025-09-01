@@ -37,13 +37,3 @@ regression_model.py → Training & evaluation.
 
 app.py → Flask app for model inference & dashboards.
 
-# 📂 Project Structure
-├── app.py                      # Flask application for deployment
-├── regression_model.py         # Model training and evaluation
-├── model_evaluation_results.csv# Evaluation metrics for all models
-├── *.pkl                       # Serialized trained models
-├── templates/                  # HTML templates (index, results, model)
-│   ├── index.html
-│   ├── results.html
-│   └── model.html
-└── README.md                   # Project documentation
