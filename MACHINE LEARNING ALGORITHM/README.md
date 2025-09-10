@@ -26,3 +26,37 @@ It is designed for students, beginners, and practitioners to **understand, imple
 │   └── ensemble/         # Random Forest, Bagging, Boosting
 ├── requirements.txt      # Dependencies
 └── README.md             # Documentation
+
+```
+# 🚀 Algorithms Implemented
+🔹 Supervised Learning
+
+Linear Regression
+
+Logistic Regression
+
+Decision Tree
+
+Random Forest
+
+Support Vector Machine (SVM)
+
+k-Nearest Neighbors (kNN)
+
+Naive Bayes
+
+🔹 Unsupervised Learning
+
+K-Means Clustering
+
+Hierarchical Clustering
+
+Principal Component Analysis (PCA)
+
+🔹 Ensemble Methods
+
+Bagging
+
+Boosting (AdaBoost, Gradient Boosting)
+
+Random Forest
