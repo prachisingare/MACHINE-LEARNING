@@ -17,8 +17,8 @@ Examples using real-world datasets
 Easy-to-use modular code
 
 # 📂 Repository Structure
-'''
-├── data/                 # Datasets used for training and testing
+
+├├── data/                 # Datasets used for training and testing
 ├── notebooks/            # Jupyter Notebooks with experiments
 ├── algorithms/           # Core algorithm implementations
 │   ├── regression/       # Linear Regression, Logistic Regression
@@ -29,7 +29,8 @@ Easy-to-use modular code
 ├── requirements.txt      # Dependencies
 ├── README.md             # Project Documentation
 └── LICENSE               # License file
-'''
+
+
 
 # 🚀 Algorithms Implemented
 🔹 Supervised Learning
