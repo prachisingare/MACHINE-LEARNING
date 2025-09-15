@@ -1,4 +1,4 @@
-# 🩺 Diabetes Prediction System
+# 🩺 Diabetes Risk Assessent Model
 
 An interactive **Machine Learning application** that predicts whether a person is **Diabetic** or **Not Diabetic** based on health indicators.
 The system is built using **Python, Scikit-learn, and Streamlit**, with a trained model stored in `final_model.pkl`.
